@@ -1,1 +1,1 @@
-print("Gatekeeper 12   3")
+print("Gatekeeper 12  3")
